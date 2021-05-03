@@ -1,0 +1,24 @@
+{
+  "name": "toblo-unified-custom-levels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hans5958/Toblo-Unified-Custom-Levels.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hans5958/Toblo-Unified-Custom-Levels/issues"
+  },
+  "homepage": "https://github.com/Hans5958/Toblo-Unified-Custom-Levels#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "fs-extra": "^9.1.0",
+    "ini": "^2.0.0"
+  }
+}
